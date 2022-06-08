@@ -1,0 +1,10 @@
+create different themes
+// Add more total recipes
+// Night mode
+// Amoled
+// Paper/Beige
+
+//make fully responsive
+//Animate Multiple pages (fade in)
+
+//Set global themes
